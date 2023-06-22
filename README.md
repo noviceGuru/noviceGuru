@@ -5,7 +5,7 @@ A `Frontend Developer` with around three years of experience, mainly focused on 
 I also have some backend development and DevOps skills under my belt. This page is a work in progress, and I'll be adding more content gradually. 
 
 
-I'll try to keep it tidy. Every time I promise to myself I won't mess it up again!
+I'll try to keep it tidy. I say that every time!
 <br>
 <br>
 
