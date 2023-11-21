@@ -1,5 +1,5 @@
 # Hey there! I'm Amin 🙂
-A `Frontend Developer` with over three years of experience, mainly focused on `React`, lately enjoying `NextJS`.
+A `Frontend Developer` with over four years of experience, mainly focused on `React`, lately enjoying `NextJS`.
 
 
 I also have some backend development and DevOps skills under my belt. This page is a work in progress, and I'll be adding more content gradually. 
