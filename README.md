@@ -4,6 +4,8 @@ A `Frontend Developer` with over four years of experience, mainly focused on `Re
 
 I also have some backend development and DevOps skills under my belt. I've used `relational` and `non-relational` databases, like `SQlite` and `MongoDB`, used `ORM`s like `mongoose`, and set up servers with `ExpressJS` and `NestJS`.
 
+Normally, I set up my own `CI/CD` pipeline.
+
 This page is a work in progress, and I'll be adding more content gradually. 
 I'll try to keep it tidy. I say that every time!
 <br>
