@@ -1,10 +1,10 @@
 # Hey there! I'm Amin 🙂
-A `Frontend Developer` with over four years of experience, mainly focused on `React` and `NextJS`, occasionally enjouing `Angular`.
+A `Frontend Developer` with over four years of experience, mainly focused on `React` and `NextJS`, occasionally enjoying `Angular`.
 
 
-I also have some backend development and DevOps skills under my belt. This page is a work in progress, and I'll be adding more content gradually. 
+I also have some backend development and DevOps skills under my belt. I've used `relational` and `non-relational` databases, like `SQlite` and `MongoDB`, used `ORM`s like `mongoose`, and set up servers with `ExpressJS` and `NestJS`.
 
-
+This page is a work in progress, and I'll be adding more content gradually. 
 I'll try to keep it tidy. I say that every time!
 <br>
 <br>
