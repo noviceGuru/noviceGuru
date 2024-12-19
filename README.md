@@ -16,4 +16,4 @@ Pretty much everything about software.
 `Server Side Rendering`, `SEO` and setting up `CI/CD` pipelines.
 I really love deploying my own apps, and adapting new technologies in each project. I can't remember two projects of mine with identic stacks.
 
-`Performance optimization` is what I find very interesting within `Frontend development`. It's crazy how you can improve a web app by finding better architectural choices and data structures.
+`Performance optimization` is what I find very interesting within `Frontend development`.
