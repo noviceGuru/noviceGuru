@@ -1,5 +1,5 @@
 # Hey there! I'm Amin 🙂
-A `Frontend Developer` with over four years of experience, specialized in `React` and `NextJS`, occasionally enjoying `Angular`.
+A `FullStack Developer` with five years of experience, specialized in `React` and `NextJS`, occasionally enjoying `Angular`.
 
 
 I also have some backend development and DevOps skills under my belt. I've used `relational` and `non-relational` and used different `ORM`s like `mongoose` and `SQLite`, and set up servers with `ExpressJS` and `NestJS`.
